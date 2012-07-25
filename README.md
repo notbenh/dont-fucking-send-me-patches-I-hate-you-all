@@ -1,6 +1,7 @@
-dont-fucking-send-me-patches-I-hate-you-all
-===========================================
+not-really-interested-in-patches-i-feel-ambivalent-about-you
+============================================================
 
-No really, this is a social experiment: fuck you, I don't care about you, don't send me patches, I hate you all.
+This is probably a social experiment: you're probably a fine individual, I'm just having difficulty reconciling my
+feelings about you. You probably shouldn't send me patches, I'm not likely to merge them.
 
-see https://twitter.com/notbenh/status/227975861721251840 for history
+See https://twitter.com/notbenh/status/227975861721251840 for more history.
