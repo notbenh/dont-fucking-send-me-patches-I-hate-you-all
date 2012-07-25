@@ -1,6 +1,6 @@
-dont-fucking-send-me-patches-I-hate-you-all
-===========================================
+Don't send me patches.  I hate you all.
+=======================================
 
-No really, this is a social experiment: fuck you, I don't care about you, don't send me patches, I hate you all.
+No really. This is a social experiment. Fuck you. I don't care about you. Don't send me patches. I hate you all.
 
-see https://twitter.com/notbenh/status/227975861721251840 for history
+See https://twitter.com/notbenh/status/227975861721251840. It's history.
