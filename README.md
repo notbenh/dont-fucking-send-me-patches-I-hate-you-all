@@ -1,6 +1,6 @@
-Don't send me patches.  I hate you all.
+I <3 the internet.
 =======================================
 
-No really. This is a social experiment. Fuck you. I don't care about you. Don't send me patches. I hate you all.
+This is an anti-social experiment. I don't care about working with established community norms. 
 
-See https://twitter.com/notbenh/status/227975861721251840 for more history.
+See http://drupal.org/principles and http://drupal.org/getting-involved for history that lasts beyond a twitter meme.
