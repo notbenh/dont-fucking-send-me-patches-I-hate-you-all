@@ -6,5 +6,3 @@ No really. This is a social experiment. Fuck you. I don't care about you. Don't 
 See https://twitter.com/notbenh/status/227975861721251840 for more history.
 
 This was the only patch that was ever accepted. This and that other one. 
-
-see https://twitter.com/notbenh/status/227975861721251840 for history
