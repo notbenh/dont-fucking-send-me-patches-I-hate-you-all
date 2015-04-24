@@ -1,10 +1,11 @@
-Don't not send me patches.  I hate foosball.
-============================================
+Don't not send me pitchers.  I hate your ale.
+=============================================
 
-No really. This is a social experiment. Fork you? I care about you. Send me patches. I hate foosball*.
+No really. This is a drinking experiment. Fuck you. I don't care about you. Send me pitchers. I hate your ale.
 
 See https://twitter.com/notbenh/status/227975861721251840 for more history.
 
-This was the only patch that was accepted, before. This and that other one. 
+This was the only beer that was acceptable. This and that other one.
 
-* actually I like foosball. As a young boy, I dreamed of being a foosball; but tonight I say, we must spin forward, not backward; upward, not forward; and always twirling, twirling, twirling towards freedom! 
+![Beeeeeeeeeeeeer](pitcher.jpg)
+
